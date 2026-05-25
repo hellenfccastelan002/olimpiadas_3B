@@ -15,7 +15,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 100vh; /* Garante que a altura mínima seja a altura total da viewport */
+    min-height: 100vh; 
 }
 
 .caixa-principal {
